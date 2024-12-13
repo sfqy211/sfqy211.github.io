@@ -2,5 +2,10 @@
     "title":"朔风秋叶的博客",
     "subTitle":"这是我的个人博客，用于描述我的项目经历，围绕.Net展开",
     "avatarUrl":"https://avatars.githubusercontent.com/u/110092404?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark"
 }
